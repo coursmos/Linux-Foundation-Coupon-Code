@@ -138,14 +138,24 @@ Don’t Miss Out! These discounts are for a limited time only.Claim Your Linux F
 ### Does Linux Foundation offer a free trial?  
 No, but Linux Foundation provides a **7-day refund policy** for most courses.
 
+***
+
 ### Can I use multiple discount codes on Linux Foundation?  
 No, you can use only one promo code per purchase, but bundles include maximum discounts.
+
+***
 
 ### Does Linux Foundation offer student discounts?  
 No dedicated student discount, but you can use SCRIPT30 or DCUBE30 for savings.
 
+***
+
 ### Are there any lifetime deals for Linux Foundation?  
 No, but annual bundles offer the highest long-term savings.
 
+***
+
 ### How often do Linux Foundation discounts update?  
 Coupons update during major sales events like Black Friday, Cyber Monday, and New Year Sales.
+
+***
