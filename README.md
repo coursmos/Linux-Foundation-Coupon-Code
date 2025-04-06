@@ -20,11 +20,11 @@ Take advantage of these **exclusive Linux Foundation discounts** on certificatio
     
 *   **Best Savings Bundle:** Up to **40% OFF** (**$600+ savings**)
     
-    *   **KCNA** + **KCSA** + **CKA** + **CKAD** + **CKS** → [kube.promo/kubestronaut](https://chatgpt.com/c/67cc0d5f-51fc-8012-ad94-4f1d162891e1#)
+    *   **KCNA** + **KCSA** + **CKA** + **CKAD** + **CKS**
     
-    *   **CKA** + **CKAD** + **CKS Exam Bundle** (**40% OFF**) → [kube.promo/k8s-bundle](https://chatgpt.com/c/67cc0d5f-51fc-8012-ad94-4f1d162891e1#)
+    *   **CKA** + **CKAD** + **CKS Exam Bundle** (**40% OFF**)
     
-    *   **CKA** + **CKS Bundle** (**$370 Savings**) → [kube.promo/bundle](https://chatgpt.com/c/67cc0d5f-51fc-8012-ad94-4f1d162891e1#)
+    *   **CKA** + **CKS Bundle** (**$370 Savings**)
     
 
   
@@ -35,7 +35,7 @@ Take advantage of these **exclusive Linux Foundation discounts** on certificatio
 
     *   **30% OFF** on all certifications, training, and IT Professional Programs
     
-    *   **Coupon Code:** Use `'SCRIPT30'` at [kube.promo/devops](https://chatgpt.com/c/67cc0d5f-51fc-8012-ad94-4f1d162891e1#)
+    *   **Coupon Code:** Use `'SCRIPT30'`
     
 
 ![Linux Foundation SideWide Offer](https://github.com/coursmos/Linux-Foundation-Coupon-Code/blob/main/Img/2-LF%20SiteWide%20offers.png)
